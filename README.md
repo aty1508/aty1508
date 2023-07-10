@@ -1,3 +1,7 @@
+a{
+    padding: 10px;
+}
+
 <h1 align="center">Hi, I'm Tushar</h1>
 <h3 align="center">A BTech undergrad from IIITD with a passion for technology and a keen interest in solving real life problems.</h3>
 
@@ -5,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tushar-yadav-596839225" target="blank" style="padding: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tushar-yadav-596839225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-yadav-596839225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tushar-yadav-596839225" height="30" width="40" /></a>
     <a href="https://instagram.com/tushar.0805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar.0805" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tushar20478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar20478" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tushar20478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tushar20478" height="30" width="40" /></a>
